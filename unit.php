@@ -1,3 +1,3 @@
-<php
-    echo "oui"
+<?php 
+    printf("Hello World !"); 
 ?>
